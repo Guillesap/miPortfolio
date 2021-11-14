@@ -43,12 +43,21 @@ h2{
     font-size: 1cm;
     text-align: center;
     padding: auto;
-    color: rgb(217, 223, 218);
+    color: rgb(6, 199, 151);
 }
 
+h3{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 1cm;
+  text-align: center;
+  padding: auto;
+  color: rgb(10, 62, 122);
+}
 p {
-    color: white;
+    color: rgb(237, 238, 234);
     font-size: 5mm;
+    text-align: justify;
+    justify-content: center;
 }
 /*pie de pagina*/
 footer {
@@ -56,11 +65,16 @@ footer {
     text-align: center;
     background-color: rgb(37, 35, 35);
     height: 20vh;
+    text-align: center;
   }
   
   article, footer {
     flex: 1;
     margin: 0;
+  }
+
+  #leyendaFooter{
+    text-align: center;
   }
   
 /*boton dark*/
@@ -74,6 +88,18 @@ footer {
     border-color:yellow
     
   }
+
+/*card*/
+.card {
+  display: flex;
+  flex-direction: row;
+  display: block;
+  margin: 0 auto;
+  padding:1cm;
+  border: solid;
+  border-color: rgb(230, 41, 8);
+  background-color: rgb(12, 12, 14);
+}
 
 /* media query */
 
