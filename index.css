@@ -99,6 +99,7 @@ footer {
   border: solid;
   border-color: rgb(230, 41, 8);
   background-color: rgb(12, 12, 14);
+  width: 40rem;
 }
 
 /* media query */
@@ -136,6 +137,17 @@ footer {
       }
     #ellogo {
       border-color: hotpink;
+    }
+    .card {
+      display: flex;
+      flex-direction: column;
+      display: block;
+      margin: 0 auto;
+      padding:1cm;
+      border: solid;
+      border-color: rgb(230, 41, 8);
+      background-color: rgb(12, 12, 14);
+      width: 30rem;
     }
     
 }
