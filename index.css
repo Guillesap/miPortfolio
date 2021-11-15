@@ -21,7 +21,7 @@ body {
     text-transform: uppercase;
     border: solid;
     border-color:silver;
-    background-color: rgb(156, 34, 4);
+    background-color: rgb(4, 19, 156);
 }
 
 #menu ul li a:hover {
@@ -35,7 +35,7 @@ h1{
     font-size: 2cm;
     text-align: center;
     padding: auto;
-    color: rgb(231, 17, 9);
+    color: rgb(9, 18, 143);
 }
 
 h2{
@@ -43,7 +43,7 @@ h2{
     font-size: 1cm;
     text-align: center;
     padding: auto;
-    color: rgb(6, 199, 151);
+    color: rgb(6, 112, 199);
 }
 
 h3{
@@ -58,7 +58,7 @@ h4{
   font-size: 0.9cm;
   text-align: center;
   padding: auto;
-  color: rgb(226, 19, 19);
+  color: rgb(76, 5, 78);
 }
 p {
     color: rgb(237, 238, 234);
@@ -89,10 +89,10 @@ footer {
     display: flex;
     flex-direction: row;
     display: block;
-    color:rgb(185, 197, 10);
+    color:rgb(229, 230, 224);
     background-color: rgb(17, 6, 2);
     border-radius: 3mm;
-    border-color:yellow
+    border-color:rgb(219, 219, 214)
     
   }
 
@@ -104,7 +104,7 @@ footer {
   margin: 0 auto;
   padding:1cm;
   border: solid;
-  border-color: rgb(230, 41, 8);
+  border-color: rgb(7, 137, 160);
   background-color: rgb(12, 12, 14);
   width: 40rem;
 }
@@ -135,23 +135,23 @@ footer {
         margin: 1mm;
         text-transform: uppercase;
         border: solid;
-        border-color:rgb(159, 168, 33);
-        background-color: rgb(243, 36, 9);
+        border-color:rgb(228, 228, 225);
+        background-color: rgb(52, 9, 243);
     }
 
     #menu ul li a:hover {
-        color: rgb(223, 223, 25);
+        color: rgb(15, 15, 1);
       }
 
     #oScuro {
         background-color: rgb(17, 6, 2);
-        color: red;
+        color: rgb(206, 219, 15);
         color: #f5f5f5;
         margin: 0 auto;
         
       }
     #ellogo {
-      border-color: hotpink;
+      border-color: rgb(172, 223, 7);
     }
     .card {
       display: flex;
@@ -160,7 +160,7 @@ footer {
       margin: 0 auto;
       padding:1cm;
       border: solid;
-      border-color: rgb(230, 41, 8);
+      border-color: rgb(8, 186, 230);
       background-color: rgb(12, 12, 14);
       width: 30rem;
     }
