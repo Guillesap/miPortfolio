@@ -4,6 +4,11 @@ body {
 }
 
 /*nav bar*/
+
+#menu {
+  background-color: rgb(12, 6, 95);
+}
+
 #menu a {
     font-size: 20px;
     font-weight: bold;
@@ -28,6 +33,11 @@ body {
     color: rgb(19, 19, 17);
   }
 
+#elLogo img {
+  border: solid;
+  border-color: blue;
+
+}
 /*titulos*/
 
 h1{
@@ -70,9 +80,10 @@ p {
 footer {
     margin: 0;
     text-align: center;
-    background-color: rgb(37, 35, 35);
+    background-color: rgb(12, 6, 95);
     height: 20vh;
     text-align: center;
+    padding: 3mm;
   }
   
   article, footer {
