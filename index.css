@@ -97,7 +97,7 @@ h4{
   font-size: 0.9cm;
   text-align: center;
   padding: auto;
-  color: rgb(76, 5, 78);
+  color: rgb(69, 205, 230);
 }
 p {
     color: rgb(237, 238, 234);
@@ -148,6 +148,55 @@ footer {
   margin-right: 1cm;
   margin-left: 1cm;
 }
+
+/*cards proyectos*/
+.fotosProyectos{
+  margin: 1.5cm;
+  
+}
+.carde {
+  display: inline-block;
+  border: solid;
+  border-color: rgb(10, 166, 194);
+  background-color: black;
+  margin-left: 2cm;
+}
+
+.carde-body {
+  background-color: rgb(206, 9, 9);
+}
+
+.carde-text {
+  color:rgb(218, 224, 211);
+  text-align: center;
+  font-size: 5mm;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*cards contacto*/
+.fotosContacto{
+  margin: 1.5cm;
+  
+}
+.car {
+  display: inline-block;
+  border: solid;
+  border-color: rgb(10, 166, 194);
+  background-color: black;
+  margin-left: 2cm;
+}
+
+.car-body {
+  background-color: rgb(206, 9, 9);
+}
+
+.car-text {
+  color:rgb(218, 224, 211);
+  text-align: center;
+  font-size: 5mm;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 
 /* media query */
 
