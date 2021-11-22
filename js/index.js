@@ -8,6 +8,10 @@ const darkMode = () => {
     $("#muchoEstilo").css("background-color", "black")
     $(".cArteles div").css("background-color", "black")
     $(".cArteles div").css("border-color", "white")
+    $("#menu").css("background-color", "grey")
+    $("#menu li a").css("background-color", "grey")
+    $ ("#menu img").css ("border-color", "white")
+    $("footer").css ("background-color", ("grey"))
     localStorage.setItem("oScuro", "dark")
   }
   
@@ -22,6 +26,12 @@ const darkMode = () => {
     $("#muchoEstilo").css("background-color", "white")
     $(".cArteles div").css("background-color", "white")
     $(".cArteles div").css("border-color", "black")
+    $("#menu").css("background-color", "white")
+    $("#menu li a").css("background-color", "white")
+    $("#menu li a").css("color", "black")
+    $ ("#menu img").css ("border-color", "black")
+    $("footer").css ("background-color", ("white"))
+    $("footer p").css ("color", ("black"))
     localStorage.setItem("oScuro", "ligth")
   }
   
