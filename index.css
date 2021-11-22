@@ -140,7 +140,6 @@ footer {
   } 
 
 
-
 /*skilss*/
 .sKills {
   color: rgb(28, 26, 141);
@@ -150,16 +149,13 @@ footer {
 }
 
 /*cards proyectos*/
-.fotosProyectos{
-  margin: 1.5cm;
-  
-}
+
 .carde {
   display: inline-block;
   border: solid;
   border-color: rgb(10, 166, 194);
   background-color: black;
-  margin-left: 2cm;
+  margin: 0.5cm;
 }
 
 .carde-body {
@@ -174,16 +170,13 @@ footer {
 }
 
 /*cards contacto*/
-.fotosContacto{
-  margin: 1.5cm;
-  
-}
+
 .car {
   display: inline-block;
   border: solid;
   border-color: rgb(10, 166, 194);
   background-color: black;
-  margin-left: 2cm;
+  margin: 0.5cm;
 }
 
 .car-body {
