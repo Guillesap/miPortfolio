@@ -136,10 +136,17 @@ footer {
     flex-direction: row;
     display: block;
     color:rgb(229, 230, 224);
-    background-color: rgb(17, 6, 2);
+    background-color: rgb(17, 17, 16);
     border-radius: 5mm;
     border-color:rgb(252, 253, 253);
     font-size: 4mm;
+    cursor: pointer;
+    
+  } 
+
+  #oScuro:hover {
+    background-color: rgb(20, 20, 18);
+    color: rgb(156, 189, 12);
     
   } 
 
