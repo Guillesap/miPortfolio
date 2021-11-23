@@ -37,7 +37,7 @@ body {
 
 #elLogo img {
   border: solid;
-  border-color: blue;
+  border-color: rgb(0, 183, 255);
 
 }
 
@@ -235,9 +235,20 @@ footer {
         margin: 0 auto;
         
       }
-    #ellogo {
-      border-color: rgb(172, 223, 7);
-    }
+      #elLogo  {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+      
+      }
+      #elLogo img {
+        border: solid;
+        border-color: rgb(226, 233, 236);
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+      
+      }
     .card {
       display: flex;
       flex-direction: column;
