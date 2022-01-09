@@ -1,6 +1,6 @@
 body {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: grey;
+    background-color: rgb(14, 13, 13);
 }
 
 /*nav bar*/
@@ -79,7 +79,7 @@ h1{
     font-size: 1.5cm;
     text-align: center;
     padding: auto;
-    color: rgb(9, 18, 143);
+    color: rgb(240, 240, 243);
 }
 
 h2{
@@ -87,7 +87,7 @@ h2{
     font-size: 1cm;
     text-align: center;
     padding: auto;
-    color: rgb(60, 17, 100);
+    color: rgb(247, 241, 162);
 }
 
 h3{
@@ -102,7 +102,7 @@ h4{
   font-size: 0.9cm;
   text-align: center;
   padding: auto;
-  color: rgb(69, 205, 230);
+  color: rgb(94, 95, 95);
 }
 p {
     color: rgb(237, 238, 234);
@@ -154,7 +154,7 @@ footer {
 
 /*skilss*/
 .sKills {
-  color: rgb(28, 26, 141);
+  color: rgb(231, 223, 152);
   justify-content: justify; 
   margin-right: 1cm;
   margin-left: 1cm;
@@ -186,13 +186,13 @@ footer {
 .car {
   display: inline-block;
   border: solid;
-  border-color: rgb(10, 166, 194);
+  border-color: rgb(55, 66, 68);
   background-color: black;
   margin: 0.5cm;
 }
 
 .car-body {
-  background-color: rgb(206, 9, 9);
+  background-color: rgb(114, 109, 109);
 }
 
 .car-text {
